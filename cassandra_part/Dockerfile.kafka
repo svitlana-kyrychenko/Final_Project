@@ -1,0 +1,11 @@
+FROM python:3.9-slim
+
+WORKDIR /kafka_rest_api
+
+COPY ./requirements_kafka.txt /kafka_rest_api
+COPY ./src/batches_from_kafka.py  /kafka_rest_api
+
+RUN pip install --upgrade pip
+RUN pip install  -r requirements_kafka.txt
+
+ENTRYPOINT ["python", "batches_from_kafka.py"]
