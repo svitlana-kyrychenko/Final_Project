@@ -1,6 +1,6 @@
 # Final_Project
 
-#Dte Scema
+# Date Scema
 
 ![Untitled Diagram drawio (2)](https://user-images.githubusercontent.com/102665740/173417609-521603f5-7ba6-45ad-9bb0-46775e87bed5.png)
 
@@ -28,3 +28,10 @@ CK - Clustering Key
 > cd ..
 > 
 > run_rest_api.sh
+
+
+# Screenshots of rest api
+1)
+2)
+3)
+4)
