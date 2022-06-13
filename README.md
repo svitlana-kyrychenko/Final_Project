@@ -2,7 +2,7 @@
 
 #Dte Scema
 
-![Untitled Diagram drawio (1)](https://user-images.githubusercontent.com/102665740/173416866-56b9f144-7eb7-4bc6-a20e-c3dd50e0c0cd.png)
+![Untitled Diagram drawio (2)](https://user-images.githubusercontent.com/102665740/173417609-521603f5-7ba6-45ad-9bb0-46775e87bed5.png)
 
 Each table was constructed to be effective for some query.
 Under each table have been written down it`s queries.
