@@ -1,5 +1,12 @@
 # Final_Project
 
+# Idea
+
+![Untitled Diagram-Page-2 drawio](https://user-images.githubusercontent.com/102665740/173422636-8f81ad3d-5a9b-4c8e-ae62-a3acdd679edc.png)
+
+Since Wikipedia data comes in every second, I decided that before writing to the database, it can be stored in message broker. 
+Next step is writing them in DB. I chose the NoSQL database Cassandra because in my opinion in this example availability is more important than consistency. I believe that this is the case when it is more important for the user to see the data than to see it completely correct. 
+
 # Date Scema
 
 ![Untitled Diagram drawio (2)](https://user-images.githubusercontent.com/102665740/173417609-521603f5-7ba6-45ad-9bb0-46775e87bed5.png)
